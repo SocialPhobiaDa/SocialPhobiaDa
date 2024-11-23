@@ -12,7 +12,7 @@
 ___
 
 <!--
-**patrickhao/patrickhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SocialPhobiaDa/SocialPhobiaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&theme=light&count_private=true) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&theme=light&layout=compact) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=SocialPhobiaDa&show_icons=true&theme=light&count_private=true) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SocialPhobiaDa&theme=light&layout=compact) -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="50%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SocialPhobiaDa&show_icons=true&hide_border=true&theme=flag-india" width="50%">
 
 ### WELCOME ✨
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 &emsp;&emsp; 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="30%"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SocialPhobiaDa&show_icons=true&hide_border=true&theme=flag-india" width="30%"> 
 
 &emsp;&emsp; 
 
